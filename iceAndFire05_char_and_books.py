@@ -20,7 +20,8 @@ def main():
     ## Decode the response
     got_dj = gotresp.json()
     pprint.pprint(got_dj)
-
+    
+    print('='*30)
     ## Request books
     list_of_book_URLs = got_dj['books']
     for book_URL in list_of_book_URLs:

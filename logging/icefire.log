@@ -1,0 +1,9 @@
+INFO:09/15/2021 05:20:05 PM Scripting started
+CRITICAL:09/15/2021 05:20:05 PM must be str, not NoneType
+INFO:09/15/2021 05:20:05 PM Program ended
+INFO:09/15/2021 05:20:31 PM Scripting started
+INFO:09/15/2021 05:20:31 PM API Response Code - <Response [200]>
+INFO:09/15/2021 05:20:31 PM Program ended
+INFO:09/15/2021 05:20:44 PM Scripting started
+INFO:09/15/2021 05:20:44 PM API Response Code - <Response [200]>
+INFO:09/15/2021 05:20:44 PM Program ended
